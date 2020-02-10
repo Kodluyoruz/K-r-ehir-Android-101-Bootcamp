@@ -1,4 +1,4 @@
-# Bootcamp Adı
+# Android 101 Bootcamp
 
 #### Programa Genel Bakış
 Programın amacı, temel Java bilgisini vermek ve basit Java uygulamalarını çalıştırmak hedeflenmektedir. Java dünyasıyla ilk kez tanışacaklar için hem dilin temel kavramları hem de uygulamaya yönelik kod örnekleriyle birlikte bir anlatım esas alınmıştır. 
