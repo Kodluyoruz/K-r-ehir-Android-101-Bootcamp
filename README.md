@@ -1,13 +1,14 @@
 # Bootcamp Adı
 
 #### Programa Genel Bakış
-Bootcamp'in hangi konu üzerine açılacağı, neleri amaçladığı, ne kadar süre devam edeceği bilgilerinin yer alacağı kısım.
+Programın amacı, temel Java bilgisini vermek ve basit Java uygulamalarını çalıştırmak hedeflenmektedir. Java dünyasıyla ilk kez tanışacaklar için hem dilin temel kavramları hem de uygulamaya yönelik kod örnekleriyle birlikte bir anlatım esas alınmıştır. 
+Bootcamp günde 5 saat olmakla birlikte 10 gün devam edecek ve dersler toplam itibariyle 50 saat olacaktır.
 
 ---
 
-### [Eğitmen Adı-Soyadı]
+### [Harun KÖR]
 
-#### Nerede çalıştığı, uzmanlık alanı
+#### Ahşap A.Ş., Android
 
 > Eğitmen hakkında 5,6 cümlelik çok kısa bir özgeçmiş yazısı.
 
