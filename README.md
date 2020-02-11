@@ -23,6 +23,8 @@ Bootcamp günde 5 saat olmakla birlikte 10 gün devam edecek ve dersler toplam i
 * Emulatör Kurulumu ve Çalıştırılması (AVD - Android Virtual Device)
 * Android’e Giriş ve Android Sürümleri
 * “Hello World” Yeni Proje Oluşturma
+
+* ### Hafta 2:
 * Java diline giriş
 * Java Dilinde İfadeler ve İşlem Operatörleri
 * Java'da Kontrol Yapıları
