@@ -19,6 +19,7 @@ Programın amacı, temel Java bilgisini vermek ve basit Java uygulamalarını ç
  ### Hafta 1: 
 * Java Geliştirme Paketi'nin (JDK) Kurulumu
 * Android Studio Geliştirme Ortamının Kurulması
+* Android Studio SDK Kavramı
 * Emulatör Kurulumu ve Çalıştırılması (AVD - Android Virtual Device)
 * Android’e Giriş ve Android Sürümleri
 * “Hello World” Yeni Proje Oluşturma
