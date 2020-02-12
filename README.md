@@ -1,8 +1,7 @@
 # Android 101 Bootcamp
 
 #### Programa Genel Bakış
-Programın amacı, temel Java bilgisini vermek ve basit Java uygulamalarını çalıştırmak hedeflenmektedir. Java dünyasıyla ilk kez tanışacaklar için hem dilin temel kavramları hem de uygulamaya yönelik kod örnekleriyle birlikte bir anlatım esas alınmıştır. 
-Bootcamp günde 5 saat olmakla birlikte 10 gün devam edecek ve dersler toplam itibariyle 50 saat olacaktır.
+Programın amacı, temel Java bilgisini vermek ve basit Java uygulamalarını çalıştırmak hedeflenmektedir. Java dünyasıyla ilk kez tanışacaklar için hem dilin temel kavramları hem de uygulamaya yönelik kod örnekleriyle birlikte bir anlatım esas alınmıştır. Kursun sonunda %85’lik pazar payıyla dünyanın en yaygın mobil işletim sistemi olan Android için mobil uygulama geliştirme temel yöntemleri becerisi sağlanacaktır. Bootcamp günde 5 saat olmakla birlikte 10 gün devam edecek ve dersler toplam itibariyle 50 saat olacaktır.
 
 ---
 
@@ -23,20 +22,26 @@ Bootcamp günde 5 saat olmakla birlikte 10 gün devam edecek ve dersler toplam i
 * Emulatör Kurulumu ve Çalıştırılması (AVD - Android Virtual Device)
 * Android’e Giriş ve Android Sürümleri
 * “Hello World” Yeni Proje Oluşturma
-
- ### Hafta 2:
 * Java diline giriş
 * Java Dilinde İfadeler ve İşlem Operatörleri
 * Java'da Kontrol Yapıları
 * Java'da Temel  Metodlar
 * Diziler
+* Android Studio Geliştirme Ortamı Hazır Şablonlarının Kullanımı
 * Uygulama Geliştirme Esasları
-* Android Studio Geliştirme Ortamı
-* Hazır Şablonlarının Kullanımı
-* Android Studio Debug ve Logcat Kullanımı
+* Android Studio Run,Debug ve Logcat Kullanımı
 * Layout Kavramı
 * View Kavramı
 * Adapter Kavramı
+* Res Kavramı ( /res)
+* Manifest Kavramı
+* Gradle Kavramı
+* Intent Kavramı
+* Google Play Store Uygulama Yayınlama
+* Java’dan Kotlin Geçiş Temel Bilgiler
+* Mobil Uygulama Kazanç Yöntemleri ve Doğru Kullanımı
+
+** Eğitim sonunda Google harita  ile uygulama geliştirilecektir.
 
 ---
 
