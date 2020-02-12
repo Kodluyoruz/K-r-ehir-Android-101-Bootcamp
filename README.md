@@ -16,7 +16,7 @@ Programın amacı, temel Java bilgisini vermek ve basit Java uygulamalarını ç
 ## Eğitim İçeriği:
 
 
- ### Hafta 1: 
+
 * Java Geliştirme Paketi'nin (JDK) Kurulumu
 * Android Studio Geliştirme Ortamının Kurulması
 * Android Studio SDK Kavramı
